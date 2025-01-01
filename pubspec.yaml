@@ -9,6 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  pedometer: ^4.0.2
+  flutter_bloc: ^8.1.6
+  flutter_lints: ^4.0.0
 
 dev_dependencies:
   flutter_test:
